@@ -2,7 +2,7 @@
 // MMUST MarketHub - Ads Page (Live API)
 // ==========================
 
-const API_URL = "http://127.0.0.1:8000/api/ads/";
+const API_URL = "https://mmustmkt-hub.onrender.com/api/ads/";
 const adsSection = document.getElementById("adsSection");
 
 // ---------------------------
