@@ -4,7 +4,7 @@
    ✅ Integrated with Django REST API + Paystack Payments
 ========================================================= */
 
-const BASE_API = "http://127.0.0.1:8000/api";
+const BASE_API = "https://mmustmkt-hub.onrender.com/api";
 const API_PRODUCTS = `${BASE_API}/products/`;
 const API_ORDERS_SELLER = `${BASE_API}/orders/mine/`;
 const API_ADS = `${BASE_API}/ads/`;
