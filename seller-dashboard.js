@@ -146,7 +146,7 @@ function renderPaymentCard(plan, amount) {
     if (!reference) return;
 
     const handler = PaystackPop.setup({
-      key: "pk_live_fb8d48e81a0091eda0c06648a67d00268fff4100", // use your test/live key
+      key: "pk_live_a490cf994f5bea7469c6224d8b7bff1df312ade8", // use your test/live key
       email: email,
       amount: amount * 100,
       currency: "KES",
