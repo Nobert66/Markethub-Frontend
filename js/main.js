@@ -1,9 +1,9 @@
 // =======================================================
 // Backend API URLs
 // =======================================================
-const SIGNUP_URL = "http://127.0.0.1:8000/api/users/register/";
-const LOGIN_URL = "http://127.0.0.1:8000/api/auth/token/";
-const FORGOT_URL = "http://127.0.0.1:8000/api/users/forgot-password/";
+const SIGNUP_URL = "https://mmustmkt-hub.onrender.com/api/users/register/";
+const LOGIN_URL = "https://mmustmkt-hub.onrender.com/api/auth/token/";
+const FORGOT_URL = "https://mmustmkt-hub.onrender.com/api/users/forgot-password/";
 
 // =======================================================
 // Function to load external HTML (Sign Up / Sign In forms)
