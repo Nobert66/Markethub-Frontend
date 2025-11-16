@@ -3,7 +3,7 @@
    Connected to Django Backend API
 ========================================================= */
 
-const BASE_API = "http://127.0.0.1:8000/api";
+const BASE_API = "https://mmustmkt-hub.onrender.com/api";
 const API_CONTACT = `${BASE_API}/feedbacks/contact/`; // ✅ Django Contact endpoint
 const API_NEWSLETTER = `${BASE_API}/feedbacks/newsletter/subscribe/`; // ✅ Newsletter endpoint
 
