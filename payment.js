@@ -2,8 +2,8 @@
 const payButton = document.getElementById("payButton");
 
 // Backend endpoints
-const BACKEND_INITIATE = "http://127.0.0.1:8000/api/payments/initiate/";
-const BACKEND_VERIFY = "http://127.0.0.1:8000/api/payments/verify/";
+const BACKEND_INITIATE = "https://mmustmkt-hub.onrender.com/api/payments/initiate/";
+const BACKEND_VERIFY = "https://mmustmkt-hub.onrender.com/api/payments/verify/";
 
 // Get JWT token from localStorage
 function getAuthToken() {
