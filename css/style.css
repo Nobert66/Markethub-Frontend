@@ -1,3 +1,16 @@
+/*-- What has been added --*/
+
+:root {
+  --bg: #fdfcf6;
+  --card: #ffffff;
+  --accent: #15161d;     
+  --highlight: #FFA800;    /* Yellow accent */
+  --muted: #6c757d;
+  --maxw: 1100px;
+  --hovering: #FF6B00
+}
+
+/*-- What has been added --*/
 
 body {
   font-family: 'Montserrat', sans-serif;
