@@ -429,10 +429,6 @@ textarea.input {
   position: relative;
 }
 
-.header-search form .input-select {
-  margin-right: -4px;
-  border-radius: 40px 0px 0px 40px;
-}
 
 .header-search .search-homepage .input-search {
   width: calc(100% - 260px);
