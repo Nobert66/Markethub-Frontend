@@ -66,12 +66,12 @@ body {
    CONTACT FORM SECTION
 ============================== */
 .contact-section {
-  background-color: #fff;
+  background-color:  #FFA800;
   padding: 90px 0;
 }
 
 .contact-card {
-  background-color: #fff;
+  background-color:  #FFA800;
   max-width: 780px;
   margin: 0 auto;
   padding: 50px;
@@ -104,7 +104,7 @@ body {
   border-radius: 10px;
   margin-bottom: 22px;
   font-size: 15px;
-  background-color: #fff;
+  background-color:  #FFA800;
   transition: border-color 0.3s, box-shadow 0.3s;
 }
 
@@ -142,7 +142,7 @@ body {
 ============================== */
 .newsletter-section {
   background-color: #000;
-  color: #fff;
+  color:  #FFA800;
   text-align: center;
   padding: 70px 20px;
 }
