@@ -3,7 +3,7 @@
 // ================================
 
 // ---------- API BASE URL ----------
-const API_URL = "https://mmustmkt-hub.onrender.com/api/products/";
+const API_URL = "https://mmustmkt-hub.onrender.com/api/products/products/";
 
 // ---------- DOM ELEMENTS ----------
 const grid = document.getElementById('product-grid');
